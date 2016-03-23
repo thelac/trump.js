@@ -1,0 +1,26 @@
+{
+  "name": "trump.js",
+  "version": "1.0.0",
+  "description": "Just squatting on the name. Feel like the namesake would be proud.",
+  "main": "trump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Suo and Luyi Zhao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thelac/trump.js.git"
+  },
+  "keywords": [
+    "trump",
+    "make",
+    "javascript",
+    "great",
+    "again"
+  ],
+  "bugs": {
+    "url": "https://github.com/thelac/trump.js/issues"
+  },
+  "homepage": "https://github.com/thelac/trump.js#readme"
+}
