@@ -1,1 +1,1 @@
-# Make numbers great again.
+# Make JavaScript Great Again.
